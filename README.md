@@ -1,2 +1,3 @@
 # First_git_demo
-git demo 
+This is my firdt git repository
+Author: Amrit
